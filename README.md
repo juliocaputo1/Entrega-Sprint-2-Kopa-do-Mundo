@@ -1,4 +1,10 @@
-# M5 - Kopa do Mundo
+# M5 - S2 - Entrega - Kopa do Mundo
+
+Nesse projeto, feito como entrega avaliativa no módulo 5 do curso de desenvolvedor Full Stack da Kenzie Academy Brasil, é montado um CRUD que gerencia informações sobre as seleções na Copa do Mundo.
+
+Na aplicação foi utilizado Python com Django e DjangoRestFramework, além de trabalhar também com ORM.
+
+No projeto são utilizados métodos POST, GET, PATCH e DELETE para cadastrar, listar, atualizar e deletar seleções e suas respectivas estatísticas de desempenho na Copa do Mundo.
 
 ## Como rodar os testes localmente
 
